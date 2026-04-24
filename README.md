@@ -69,3 +69,6 @@ This is a client-side demo project. The API key is stored in the frontend for de
 Built by Archisha Pradhan — first year CS student building in public.
 
 > "Started from notes, now we're flipping cards."
+
+## 🌐 Live Demo
+👉 [YOUR_USERNAME.github.io/flashai](https://archisha30.github.io/flashai)
