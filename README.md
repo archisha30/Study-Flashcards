@@ -71,4 +71,4 @@ Built by Archisha Pradhan — first year CS student building in public.
 > "Started from notes, now we're flipping cards."
 
 ## 🌐 Live Demo
-👉 [YOUR_USERNAME.github.io/flashai](https://archisha30.github.io/flashai)
+👉 [YOUR_USERNAME.github.io/flashai](https://archisha30.github.io/Study-Flashcards/)
